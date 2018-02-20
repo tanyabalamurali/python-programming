@@ -5,4 +5,9 @@ def main(n):
         print("even")
     else:
         print("odd")
-num(4):
+
+
+
+if __name__ == '__main__':
+    main(4)
+
