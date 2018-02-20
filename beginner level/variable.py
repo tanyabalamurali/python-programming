@@ -11,7 +11,7 @@ num10 = 0.0
 num3 = float(num1) + float(num2)
 num6 = float(num4) * float(num5)
 num9 = int(num7) / int(num8)
-num 10=float(num1)**float(num5)
+num10=float(num1)**float(num5)
 print('The sum of {0} and {1} is {2}'.format(num1, num2, num3))
 print('The mul of {0} and {1} is {2}'.format(num4, num5, num6))
 print('The div of {0} and {1} is {2}'.format(num7, num8, num9))
